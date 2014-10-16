@@ -1,7 +1,7 @@
 {
   "name": "gulp-nuke-whitespace",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.1.1",
+  "description": "Removes the trailing whitespace at the end of each line in a string.",
   "license": "MIT",
   "repository": "jbenner55/gulp-nuke-whitespace",
   "author": {

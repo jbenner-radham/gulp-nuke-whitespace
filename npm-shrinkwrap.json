@@ -1,6 +1,6 @@
 {
   "name": "gulp-nuke-whitespace",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
     "gulp-util": {
       "version": "3.0.1",
