@@ -1,6 +1,6 @@
 {
-  "name": "gulp-nuke-trailing-whitespace",
-  "version": "0.0.0",
+  "name": "gulp-nuke-whitespace",
+  "version": "0.1.0",
   "dependencies": {
     "gulp-util": {
       "version": "3.0.1",
