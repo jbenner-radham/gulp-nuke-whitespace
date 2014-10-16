@@ -1,7 +1,8 @@
 'use strict';
-var gutil = require('gulp-util');
+
+var gutil   = require('gulp-util');
+var lv426   = require('./nuker.js');
 var through = require('through2');
-var lv426 = require('./nuker.js');
 
 module.exports = function () {
 	return through.obj(function (file, enc, cb) {

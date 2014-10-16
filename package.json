@@ -1,9 +1,9 @@
 {
-  "name": "gulp-nuke-trailing-whitespace",
-  "version": "0.0.0",
+  "name": "gulp-nuke-whitespace",
+  "version": "0.1.0",
   "description": "",
   "license": "MIT",
-  "repository": "jbenner55/gulp-nuke-trailing-whitespace",
+  "repository": "jbenner55/gulp-nuke-whitespace",
   "author": {
     "name": "James Benner",
     "email": "james.benner@gmail.com",
