@@ -1,0 +1,32 @@
+{
+  "name": "gulp-nuke-trailing-whitespace",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "repository": "jbenner55/gulp-nuke-trailing-whitespace",
+  "author": {
+    "name": "James Benner",
+    "email": "james.benner@gmail.com",
+    "url": "https://github.com/jbenner55"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "through2": "^0.6.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "mocha": "*"
+  }
+}
